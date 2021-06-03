@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dauids palme and cedar shewing the reward of the righteous. In a sermon preached at Eccleston church in Lancashire; Iuly, 25. 1614. being the day of dedication of Heskine Schoole: founded by Sir Iames Pemberton knight, late alderman and citizen of London. By William Leigh Bachelor ini Diuinity, and pastor at Standish.</title>
+            <author>Leigh, William, 1550-1639.</author>
+         </titleStmt>
+         <extent>Approx. 70KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14433</idno><idno type="EEBO-CITATION">99838973</idno>
+  <idno type="VID">176870</idno>
+  <idno type="EEBO-PROQUEST">2248558052</idno>
+  <idno type="STC">STC 15423.3</idno>
+  <idno type="STC">ESTC S103216</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838973e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 715:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dauids palme and cedar shewing the reward of the righteous. In a sermon preached at Eccleston church in Lancashire; Iuly, 25. 1614. being the day of dedication of Heskine Schoole: founded by Sir Iames Pemberton knight, late alderman and citizen of London. By William Leigh Bachelor ini Diuinity, and pastor at Standish.</title>
+                  <author>Leigh, William, 1550-1639.</author>
+               </titleStmt>
+               <extent>[12], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Creede for Arthur Iohnson, and are to be sold at his shop in Paules churchyard, nere the great ..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1615?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date conjectured by STC.</note>
+                  <note>Identified as STC 15423a on UMI microfilm, and as STC 15423.45 in the Folger Shakespeare Library Catalogue.</note>
+                  <note>Cropped at foot, affecting imprint date and signatures.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176870:1"/>
+            <p>DAVIDS PALME AND <hi>CEDAR,</hi> Shewing the Reward of <hi>the Righteous.</hi>
+            </p>
+            <p>IN A SERMON PREA<g ref="char:EOLhyphen"/>ched at <hi>Eccleston</hi> Church in <hi>Lan<g ref="char:EOLhyphen"/>cashire; Iuly,</hi> 25.1614. <hi>being the</hi> day of Dedication of Heskine Schoole: Founded by Sir <hi>Iames Pemberton</hi> Knight, <hi>late Alderman and Citi<g ref="char:EOLhyphen"/>zen of</hi> LONDON.</p>
+            <p>BY WILLIAM LEIGH Bachelor in <hi>Diuinity, and Pastor at Standish.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>DANIEL. 12.3.</hi>
+               </bibl>
+               <p>They that be wise shall shine as the bright<g ref="char:EOLhyphen"/>nesse of the firmament, and they that turne many to righteousnesse, shall shine as the Starres for euer and euer.</p>
+            </q>
+            <p>LONDON Printed by <hi>Thomas Creede</hi> for <hi>Arthur Iohnson,</hi> and are to be sold at his shop <hi>in Paules Churchyard, nere the great</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176870:2"/>
+            <pb facs="tcp:176870:2"/>
+            <head>TO THE RIGHT VVorshipfull, and Religious <hi>good Lady, the Lady Pember<g ref="char:EOLhyphen"/>ton,</hi> grace be multiplyed in <hi>this life, and glory in a better.</hi>
+            </head>
+            <opener>
+               <salute>Good Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T what time it pleased Almigh<g ref="char:EOLhyphen"/>ty God to put in<g ref="char:EOLhyphen"/>to <hi>Dauids</hi> heart, &amp; <hi>Salomons</hi> hands to build him an house at <hi>Ierusa<g ref="char:EOLhyphen"/>lem,</hi> that his name might be there; It is memorable, how in that great
+<pb facs="tcp:176870:3"/>day of Dedication, the King did sanctifie the same with his pray<g ref="char:EOLhyphen"/>er, and honoured it with his pre<g ref="char:EOLhyphen"/>sence; teaching vs thereby, that <hi>Dauid</hi> may purpose, and <hi>Salo<g ref="char:EOLhyphen"/>mon</hi> may performe, what God would haue done: and yet all in vaine, if the Lord doe not blesse in both his owne ordinance.</p>
+            <p>The helpe of heauen was with that good Knight your late hus<g ref="char:EOLhyphen"/>band, of worthy memory, in his prouision to build vpon the poore in many works of mercy: which he left for you Madam to be perfected in the honor of Christ, in his poore members, of which the world is full, wee can goe to no Pulpit, but they pearce our hearts to prouoke our speech.</p>
+            <p>In tender whereof, it ioyeth vs much in these Northerne parts to heare, see, and feele,
+<pb facs="tcp:176870:3"/>how fully you haue perfected a worke so well begunne, with a liberall augmentation of more mercy, and greater extent of bounty, then euer was inten<g ref="char:EOLhyphen"/>ded or expected of many I am sure (his poore Allies and Kins<g ref="char:EOLhyphen"/>folks here) whose dayly prayers are with GOD, for that wherein you haue much inrich<g ref="char:EOLhyphen"/>ed them.</p>
+            <p>And especially in that wor<g ref="char:EOLhyphen"/>thy foundation of your Free Schoole here at <hi>Heskyne,</hi> drou<g ref="char:EOLhyphen"/>ping much vpon the death of that Founder, for feare of fu<g ref="char:EOLhyphen"/>ture fall, till your Ladishippe take holde to perfect the worke so well begunne, with so com<g ref="char:EOLhyphen"/>fortable a reflection, and a<g ref="char:EOLhyphen"/>spect of future good, as now it hopeth in GOD euer to breath sweet like the sauour of a field,
+<pb facs="tcp:176870:4"/>which the Lord hath blessed.</p>
+            <p>Saint <hi>Iames</hi> his day hath beene the day of Dedication, from the foundation till now, where and when the Eue hath beene kept solemne for Scho<g ref="char:EOLhyphen"/>lasticall exercises (from the first day, and Master, who gaue it first life a shining Lampe, consuming himselfe to enligh<g ref="char:EOLhyphen"/>ten others) euen downe to these dayes, laudably performed by the Masters, Vshers, and Schol<g ref="char:EOLhyphen"/>lers there, In their succeeding times, and now haue exceeding<g ref="char:EOLhyphen"/>ly well performed both in Greeke and Latine, Prose and Verse. I leaue it to the report of the Iudi<g ref="char:EOLhyphen"/>cious hearers, who heard it, and ioyed much in their Acts.</p>
+            <p>The Eue so spent, the Feast was sacred for holy deuotion in the Parrish Church of <hi>Eccle<g ref="char:EOLhyphen"/>ston,</hi>
+               <pb facs="tcp:176870:4"/>being your Ladyshippes pleasure, it should so bee kept, as formerly it had beene; That those many Children, ouer whome you are now a carefull mother, being sanctified with the word of God and prayer, might learne more chearefullie to sing <hi>Hosannah</hi> to the high<g ref="char:EOLhyphen"/>est.</p>
+            <p>The Prayers and Sermon so ended, your liberall heart and hand thought not good to dis<g ref="char:EOLhyphen"/>misse the people, (after their soule solace,) without a bles<g ref="char:EOLhyphen"/>sing of some bodilie repast, like vnto that of our Sauiour Christ, when hee sayde, Giue yee them to eate, which was rea<g ref="char:EOLhyphen"/>dily done, and performed with chearefulnesse.</p>
+            <p>And now, good Lady, I doe heere present in priuate,
+<pb facs="tcp:176870:5"/>and lay in your Ladishippes lappe, what was then preached in publike, then this my poore frame of Palme and Cedar, speciall Materials in the Fabricke of the Temple, if <hi>Bezaliel</hi> or <hi>Hiram</hi> the widdowes Sonne of <hi>Nephthalie</hi> were, to put them into the worke: But they are dead, so is the Tabernacle and Temple too, with all it glorie, all demolished and turned to dust, all buried in the bowels of Christ, as Saint <hi>Augustine</hi> sayeth, <hi>Ne populus rediret ad Iu<g ref="char:EOLhyphen"/>daismum,</hi> left the people might returne againe to Iudaisme.</p>
+            <p>The substance being come in place, those shaddow <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are vanished, for the Vale of the Temple is rent a sunder from the toppe to the bottome, and Christ hath now appeared in per<g ref="char:EOLhyphen"/>fect
+<pb facs="tcp:176870:5"/>beauty, a Minister of a better sanctuary, which the Lord hath pight and not man.</p>
+            <p>Righteous men, the plants of his pleasure, are Palmes and Cedars of that glorious buil<g ref="char:EOLhyphen"/>ding, and a more cunning hand then eyther that of <hi>Bezaliel</hi> or <hi>Hiram</hi> hath framed them for the worke; for <hi>Summa sapientia aedisicauit domum:</hi>
+               <note place="margin">
+                  <hi>Prou.</hi> 9. <hi>v.</hi> 1.</note> Wisedome of Wisedome hath built her an house: A Palme and Ce<g ref="char:EOLhyphen"/>dar among the rest, the Lord God of Heauen to make his worke more glorious, hath there layde the soule and spi<g ref="char:EOLhyphen"/>rite of your louing husband, where are the Soules of iust and perfect men: hee hath put him in the Register of the righ<g ref="char:EOLhyphen"/>teous, and why should eyther mischieuous enuie raize him,
+<pb facs="tcp:176870:6"/>or foule obliuion leaue him out? For my owne parte, I may not dissemble, or deuide eyther mine affection to him that dead is, or betray the truth of so exceeding great kind<g ref="char:EOLhyphen"/>nesse as I haue receyued from your Ladyshippe from time to time, both towardes my selfe and mine in <hi>London:</hi> for which I shall euer pray, that you may euer flourish, and grow greene in the course of the Almighty, here a Palme in grace, and there a Cedar in glory: Not doub<g ref="char:EOLhyphen"/>ting, but your Ladyshippe will take in good part these my poore paines, as a pledge of my lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; seasoned with my best prayers to GOD for your good Ladishippe, withall yours, euer to bee kept vnder his holy hand of pro<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idence and protecti<g ref="char:EOLhyphen"/>on:
+<pb facs="tcp:176870:6"/>
+            </p>
+            <closer>Amen, Amen.</closer>
+            <closer>
+               <dateline>Standish, <date>the fourth of May, 1615.</date>
+               </dateline>
+               <signed>Your Ladiships most bounden, <hi>WILLIAM LEIGH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:176870:7"/>
+            <pb n="1" facs="tcp:176870:7"/>
+            <head>DAVIDS PALME AND CEDAR, shewing the reward of the <hi>Righteous.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Psal. 92.12.13.14.15.</hi>
+                  </bibl>
+                  <p>The righteous shall flourish like a Palme<g ref="char:EOLhyphen"/>tree, and shall spread abroad like a Ce<g ref="char:EOLhyphen"/>dar in Lebanon.</p>
+                  <p>Such as be planted in the house of the Lord shall flourish in the courts of our God.</p>
+                  <p>They shall still bring forth fruit in their age they shall be fat and flourishing.</p>
+                  <p>To declare that the Lord my Rocke is righ<g ref="char:EOLhyphen"/>teo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, and that none iniquity is in him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Eing called vnto this place and pre<g ref="char:EOLhyphen"/>sence, by her who may command me much, for that her care, cost, and con<g ref="char:EOLhyphen"/>science, is to bury Christ in the soules of these children:
+<pb n="2" facs="tcp:176870:8"/>I did not consult with flesh &amp; blood, but haue, as you may see, most wil<g ref="char:EOLhyphen"/>lingly obeyed the heauenly call, be<g ref="char:EOLhyphen"/>seeching almighty God, without whose prouidence, nothing pro<g ref="char:EOLhyphen"/>ceedes, and without whose metcy, nothing is saued, that hee would bee ayding, helping, and propitious, as in this, so in all other like works of mer<g ref="char:EOLhyphen"/>cy, of which these our chillary dayes of decayed deuotion, are but too cold and dainty.</p>
+            <p>And because the life of a Christian is a mixed web wrought vpon com<g ref="char:EOLhyphen"/>forts and troubles: pardon me a while to blend in both, I meane in sorrow and solace; In sorrow, for the losse of our late Founder, and yet in solace, for his suruiuing Lady, whose longing desire is, as you may see, to giue life and light to all his holy actions.</p>
+            <p>When <hi>Rahel</hi> died,
+<note place="margin">
+                  <hi>Gen.</hi> 35. <hi>v.</hi> 19, 20.</note>
+               <hi>Iacob</hi> with all his friends and family mourned her fune<g ref="char:EOLhyphen"/>rals, he buried her in the way to <hi>E<g ref="char:EOLhyphen"/>phrath,</hi> which is <hi>Bethlem,</hi> and erected a pillar vpon her graue, which is cal<g ref="char:EOLhyphen"/>led <hi>Rahels</hi> pillar vnto this day.</p>
+            <p>Such is our sorrow in this dayes
+<pb n="3" facs="tcp:176870:8"/>solemnity, a day of life, and yet a day of death; wherein, though <hi>Iacob</hi> the husband be dead, yet <hi>Rahels</hi> care is to keepe him in life, and so to lap him in her loue, as his memory may be bles<g ref="char:EOLhyphen"/>sed for euer.</p>
+            <p>His death was naturall, and his obsequies honourable; so much the more honourable, in that hee was re<g ref="char:EOLhyphen"/>ligiously buried in the way to <hi>E<g ref="char:EOLhyphen"/>phrath,</hi> which is, <hi>Bethlem Iudah:</hi> where Christ was borne, there was hee buri<g ref="char:EOLhyphen"/>ed; for as he liued in his feare, so hee died in his faith, with an assured hope of a most glorious resurrection, neuer to die againe, when sinne and time shall be no more.</p>
+            <p>So now, what remayneth to the succeeding ages, eyther for imitati<g ref="char:EOLhyphen"/>on, or admiration of his faith to God, or charity towards men; but that a pillar should bee erected vpon his graue, done as you may see, by the ready hand, and religious heart of his louing consort, who hath put both spirit and life into al his holy actions; wishing mee, this day it should bee preached here, as an Inscription vpon
+<pb n="4" facs="tcp:176870:9"/>his graue; That the Marble stone that couereth him, should sooner turne to greete, then the memory of this righ<g ref="char:EOLhyphen"/>teous branch should be forgotten, or the hope of his resurrection weare out.</p>
+            <p>For my owne part, I loued him in his life, and therefore may not but ho<g ref="char:EOLhyphen"/>nour him in his death, and poure vp<g ref="char:EOLhyphen"/>on his blessed head this my poore balme, to bury him withall.</p>
+            <p>The Balme I powre out, is the word I read, breathing sweet as perfume from the mouth and spirit of <hi>Dauid,</hi> that sweet singer of <hi>Israel:</hi> He pow<g ref="char:EOLhyphen"/>red it vpon the head of all Iust men; and why should it misse this righte<g ref="char:EOLhyphen"/>ous branch? who flourishing in his life, may not wither in his death; for the righteous shall flourish like a palme tree, &amp;c.</p>
+            <p>That which <hi>Dauid</hi> spake in parti<g ref="char:EOLhyphen"/>cular of himselfe; now he sheweth it to appertaine to all the faithfull: for the promises of God made vnto his Church, are not for a few, but they are for all; and then are they made priuate, proper, and peculiar, when e<g ref="char:EOLhyphen"/>uery
+<pb n="5" facs="tcp:176870:9"/>mans faith applyeth them vnto himselfe,
+<note place="margin">
+                  <hi>Ioh.</hi> 20. <hi>v.</hi> 16. <hi>Io.</hi> 20. <hi>v.</hi> 28.</note> and can eyther say as <hi>Mary</hi> did vpon the sight, <hi>Rabboni,</hi> or as <hi>Thomas</hi> did vpon the touch, my God, my Lord.</p>
+            <p>The Prophet therefore in this Psalme comparing state with state, that of the wicked, with this of the godly, doth shew, that although the bough and blossome of sinners for a time seeme sayre in this world; yet is their flower of no continnance, but is soone cut downe, and withereth, while the righteous mā fearing God, is happy in his life, and blessed in his death, euer flourishing like a Rose of <hi>Sarum,</hi> and a lillie of the valley.</p>
+            <p>Made good in this place by two apt Similitudes: One of the <hi>Palme tree;</hi> the other, of the <hi>Cedar:</hi> as if hee should say, the wicked shall wither, and be cut downe like grasse; but the righteous shall flourish like a Palme tree, and spread abroad like a Cedar in Lebanon: where, for the eafier car<g ref="char:EOLhyphen"/>riage of the whole, foure things are of speciall note, and worthy your ob<g ref="char:EOLhyphen"/>seruation.</p>
+            <pb n="6" facs="tcp:176870:10"/>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> that the righteous shall flou<g ref="char:EOLhyphen"/>rish: Theres a necessity.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> how hee shall flourish; to witte, like the flourishing Palme, and lofty Cedar, theres an emi<g ref="char:EOLhyphen"/>nencie.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> why hee shall flourish: for that he is planted in the house of the Lord, theres his piety.</p>
+            <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> the end of his flourishing, to declare, that the Lord my Rocke is righteous, and that none iniquity is in him, theres his profession.</p>
+            <p>Pardon me a while to solace both my selfe and you by these waterfalls of so heauenly a doctrine, and while the springs thereof issue from vnder the threshold of Gods Sanctuary, goe with that current, and make consci<g ref="char:EOLhyphen"/>ence; both what, and how you heare; for cursed is he that doth the worke of the Lord negligently: its true, as well of idle hearers, as idle Prea<g ref="char:EOLhyphen"/>chers.</p>
+            <p>But because mention is here made of the righteous, a word frequent in the Scriptures of God, and of diuers acceptions; Giue mee leaue for the
+<pb n="7" facs="tcp:176870:10"/>better vnderstanding of the Text, to resolue it into it parts, therby to make knowne vnto you, what righteousnes or iustice it is, the Prophet here speaketh of.</p>
+            <p>And first, there is an essentiall iu<g ref="char:EOLhyphen"/>stice, and that is onely in God and his Christ, of which it is truely sayde,
+<note place="margin">
+                  <hi>Ps.</hi> 85.11,</note>
+               <hi>Truth hath flourished from the earth, &amp; righteousnesse hath looked downe from heauen:</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 8.31.</note> This righteousnesse leaped downe from the height of all subli<g ref="char:EOLhyphen"/>mity, and hath solaced it selfe within the compasse of our earth, then when Christ inuested himselfe in the womb of the blessed Virgin, and so became both a righteous God, and a righte<g ref="char:EOLhyphen"/>ous man, to iustifie that truth which was said of old: I will, sayth the Lord,
+<note place="margin">
+                  <hi>Ie<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m.</hi> 23. <hi>v.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> bring forth the branch my ser<g ref="char:EOLhyphen"/>uant, <hi>I will rayse vnto Dauid a righteous branch, and a King shall raigne and pros<g ref="char:EOLhyphen"/>per, he shall execute Iustice and iudge<g ref="char:EOLhyphen"/>ment vpon the corth.</hi>
+            </p>
+            <p>And promiscuously this righte<g ref="char:EOLhyphen"/>ousnes may be attributed to all three persons; To that iust God, whence all righteousnes is deriued; To that iust
+<pb n="8" facs="tcp:176870:11"/>man, actually doing all, and passibly suffering for all; The iust for the vn<g ref="char:EOLhyphen"/>iust: To that iust Mediator, euen Iesus Christ the righteous, clearing the sinner in the sight of his father, not by translating his righteousnesse, as <hi>Osiander</hi> would haue it, from him<g ref="char:EOLhyphen"/>selfe vpon vs, but by imputation of his for vs, according to that of <hi>Dauid: Blessed is the man to whom the Lord im<g ref="char:EOLhyphen"/>puteth no sinne.</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 32. <hi>v.</hi> 1.2.</note> Finally, this is that iust Iudge, into whose hāds all iudge<g ref="char:EOLhyphen"/>ment shal be deuolued at that dread<g ref="char:EOLhyphen"/>full day, when he shall come with his Fanne in his hand and iudge accor<g ref="char:EOLhyphen"/>ding to that wee haue done in this life, be it good or euill. And last<g ref="char:EOLhyphen"/>ly, to that righteous Spirit breathing where it will, when it will, and as it will.</p>
+            <p n="2">2 But besides this essentiall iustice in God, and in Christ, there is an acci<g ref="char:EOLhyphen"/>dentall righteousnesse in vs Chri<g ref="char:EOLhyphen"/>stians.</p>
+            <p>And that is eyther Legall or E<g ref="char:EOLhyphen"/>uangelicall: Legall by iniunction deliuered from <hi>Horeb:</hi> in feare and fire, whose Rule is the leuell of the
+<pb n="9" facs="tcp:176870:11"/>law, and who is able to keepe it?</p>
+            <p>Euangelicall righteousnesse is by Imputation, as wee haue said, sealed with the bloud of thy Sauiour, and the leuell thereof is loue, a iustice de<g ref="char:EOLhyphen"/>nied to none, who deny not him; but shrowd themselues vnder that righ<g ref="char:EOLhyphen"/>teous branch, whose shadow is a shelter to all his Saints, like the sha<g ref="char:EOLhyphen"/>dow of a mighty Rocke in a weary land.</p>
+            <p>In right whereof,
+<note place="margin">
+                  <hi>Gen.</hi> 18. <hi>v.</hi> 23. <hi>ad finem.</hi>
+               </note> I may plead with my God, as <hi>Abraham</hi> did for <hi>So<g ref="char:EOLhyphen"/>dome;</hi> so I for my sinnes, <hi>Shall not the Iudge of all the world doe according to right:</hi> O God, thou hast forgiuen my sins, and punished them in my Christ; therefore may thou not of right ney<g ref="char:EOLhyphen"/>ther detayne them, or punish them a<g ref="char:EOLhyphen"/>gaine in me; for what if I haue done any thing amisse, whereby thou may<g ref="char:EOLhyphen"/>est iustly condemne me; yet hath my Christ lost nothing, but that hee may iustly saue me; His righteousnesse is is mine, and hee hath bid me put it on, a robe for my wearing, though not of my weauing, as were the royall roabes of <hi>Aaron.</hi>
+            </p>
+            <pb n="10" facs="tcp:176870:12"/>
+            <p>
+               <hi>Moses</hi> hand was leprous while it was in his owne bosome:
+<note place="margin">
+                  <hi>Exod.</hi> 4.6.</note> so is mine in my owne righteousnesse, but taken out, &amp; put into the print of his nailes, and thrust into his sore side: I am made cleane with doubtfull <hi>Thomas,</hi>
+               <note place="margin">
+                  <hi>Io.</hi> 20. <hi>v.</hi> 28.</note> and dare say, <hi>My God, my Lord.</hi> Thy wounds are wide enough to let out thy mercies, thy wounds are deepe enough to keepe in thy iustice.</p>
+            <p>
+               <hi>Abraham</hi> must out of his owne Country, away hee must from his own people, and fathers house, if hee will to <hi>Canaan:</hi> so must I from my owne perfection, holinesse, and righteous<g ref="char:EOLhyphen"/>nesse, if I will winne heauen; I and the child will goe alone, so said <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> of his beloued <hi>Izaack:</hi> I and my Christ will goe alone, so sayeth the sinner of his beloued Sauiour: O we<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sayde <hi>Mary,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 1. <hi>v.</hi> 49.</note> He that is mighty hath done to me great things, and holy is his name: <hi>Fecit mihi, nec in me, nec per<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me:</hi> Neyther in me, nor by me, but to me, and for me: Acknowledging her selfe no Agent, but a poore Patient, in the blessed worke of her owne, and our Redemption by Christ, whom
+<pb n="11" facs="tcp:176870:12"/>she carried more faithfull in her hart, then she did in her wombe, for her saluation.</p>
+            <p>I may conclude, and so close vp the doctrine of mans righteousnesse thus, <hi>Cunctorum in Carne perfectorum imperfecta perfectio est:</hi> Mans perfec<g ref="char:EOLhyphen"/>tion is imperfection, and all his righ<g ref="char:EOLhyphen"/>teousnes is like a stained cloath.</p>
+            <p>Wee are not the beautifull gate, but as the begger that there beggeth an Almes: O well sayd <hi>Dauid,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 4. <hi>v.</hi> 1</note>
+               <hi>Heare mee when I cry, O God of my righteous<g ref="char:EOLhyphen"/>nesse:</hi> Acknowledging his righte<g ref="char:EOLhyphen"/>ousnesse to bee Gods creature, and none of his: and therefore turneth to him, as doth the Marigold towards the sunne, then fayrest, when it is highest, but dieth, and closeth in it declination.</p>
+            <p>Where it may be <hi>Dauid</hi> yet mea<g ref="char:EOLhyphen"/>neth an other righteousnesse, not yet mentioned, to wit, his personall in<g ref="char:EOLhyphen"/>nocency, in regard of any euill hee intended against <hi>Saul,</hi> laying downe the equity of his cause before his iust God.</p>
+            <p>As, and if hee should say, Oh my
+<pb n="12" facs="tcp:176870:13"/>God thou knowest the Innocency of my heart, mouth and hand, I neuer thought him euill, I neuer spake him euill, I neuer did him euill.</p>
+            <p>I fought his battels with many a wound, I married his daughter <hi>Mi<g ref="char:EOLhyphen"/>chal</hi> with many a scorne, I abated the fury of <hi>Sauls</hi> spirit with much dan<g ref="char:EOLhyphen"/>ger, I fled his presence with much patience, when I saw him moued, and let the wildernesse of <hi>Moan</hi> beare witnesse to my mournings, because of his indignation; I loued his sonne <hi>Ionathan</hi> as my owne soule; and thou caue of <hi>Adullam</hi> witnesse with mee how I reuerenced <hi>Sauls</hi> presence when I might haue spilt his person; &amp; yet for all this am I accused of disloi<g ref="char:EOLhyphen"/>alty, treason, and open rebellion Heare me, O heare me when I cry, O God of my righteousnesse.</p>
+            <p>
+               <hi>Augustin</hi> sayth well; <hi>Duo sunt ti<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> bi necessaria, Fama, &amp; Conscientia, Con<g ref="char:EOLhyphen"/>scientia propter te, fama propter alio<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> There bee two things necessary for thee, a good name, and a good con<g ref="char:EOLhyphen"/>science, a good name, in respect o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> those that are without; a good con<g ref="char:EOLhyphen"/>science
+<pb n="13" facs="tcp:176870:13"/>in regard of that which is within; In regard of both, thou maiest well plead innocencie and righteous<g ref="char:EOLhyphen"/>nes, if thou bee faultlesse as <hi>Dauid</hi> was: And this is called a personall righteousnes, in respect of a particu<g ref="char:EOLhyphen"/>lar wrong offered against the in<g ref="char:EOLhyphen"/>nocent.</p>
+            <p n="4">4 Lastly, there is another righteous<g ref="char:EOLhyphen"/>nesse, and that concerneth our honest carriage &amp; holy conuersation in this world, alwayes ioyned with the feare of God, and vpright dealing to<g ref="char:EOLhyphen"/>wards men.</p>
+            <p>Holy men in their holy Escripts, when they prayse any,
+<note place="margin">
+                  <hi>Iob.</hi> 1. <hi>v.</hi> 1. <hi>Gen.</hi> 18. <hi>v.</hi> 19. <hi>Luk.</hi> 1. <hi>v.</hi> 6 <hi>Act.</hi> 10. <hi>v.</hi> 1.2. 1. <hi>Thess.</hi> 2. <hi>v.</hi> 10.</note> they prayse him thus, <hi>a iust man, and fearing God.</hi> So <hi>Iob,</hi> so <hi>Abraham,</hi> so <hi>Zachariah,</hi> and <hi>Elizabeth,</hi> so <hi>Cornelius,</hi> and so <hi>Christ,</hi> were crowned with the Diadem of this righteousnesse: yea, and of this very righteousnesse ioyed the blessed Apostle, when he sayd: yee are wit<g ref="char:EOLhyphen"/>nesses; and God also, how holily and iustly, and vnblameable we behaued our selues among you that beleeue.</p>
+            <p>Nor may we thinke that the grace of God. that bringeth saluation vn<g ref="char:EOLhyphen"/>to
+<pb n="14" facs="tcp:176870:14"/>all men hath appeared, that wee should liue wickedly;
+<note place="margin">
+                  <hi>Titus.</hi> 2. <hi>v.</hi> 11.12</note> but teacheth rather that wee should deny vngod<g ref="char:EOLhyphen"/>linesse, and worldly lusts, and that wee should liue soberly and righte<g ref="char:EOLhyphen"/>ously, and godly in this present world.</p>
+            <p>And now conceiue mee my bre<g ref="char:EOLhyphen"/>thren, that I may close with my Text, this of holy conuersation, with that of imputation, is the righteous<g ref="char:EOLhyphen"/>nes whereof <hi>Dauid</hi> speaketh, and sets as a triple Crowne and Diadem vpon the head of the blessed; I meane, to liue soberly in respect of our selues, to liue righteously, in respect of others; and to liue godlily, in respect of God himselfe; <hi>Hoc opus hic labor,</hi> This is the worke and modell of all our righte<g ref="char:EOLhyphen"/>ousnes.</p>
+            <p>So then, we are iustified by Christ his righteousnesse imputed, by the holinesse of our works, declaring the same, and by a liuely faith, rightly ap<g ref="char:EOLhyphen"/>prehending and applying the same to Gods glory, and the saluation of our soules for his Christs sake; And so to the seuerall branches of my Text.</p>
+            <div n="1" type="part">
+               <pb n="15" facs="tcp:176870:14"/>
+               <p>Where first I may say with <hi>Dauid,</hi>
+                  <note place="margin">
+                     <hi>Ps.</hi> 9.16.</note>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Part. </seg>1</label>
+                  <hi>Higgaion, Selah;</hi> This is worthy to bee noted in the silence of our soules, that the righteous thus iustified in the sight of God, thus iustified in his own conscience, and thus iustified before men, shall flourish like a Palme tree, &amp; spread abroad like a Cedar in Le<g ref="char:EOLhyphen"/>banon: He shall prosper, he shal pros<g ref="char:EOLhyphen"/>per, <hi>Non vrgente facto, sed disponente Deo,</hi> The Lord will so haue it.</p>
+               <p>It is sayd of <hi>Pharaoh</hi> his dreame,
+<note place="margin">
+                     <hi>Gen.</hi> 41. <hi>v.</hi> 32.</note> that it was doubled, both because of the certainety, and expedition there<g ref="char:EOLhyphen"/>of, the better to assure thee, of the blessed and flourishing estate of the righteous: The Spirit of God in <hi>Da<g ref="char:EOLhyphen"/>uid</hi> hath more then doubled the dreame; for hee hath rivitted the Nayle foure times with a steddie hand; <hi>Hee shall flourish, he shall prosper, hee shall grow, hee shall bee fatte and well liking.</hi>
+               </p>
+               <p>The Lion hath roared, who wil not be afraide; the Lord hath spoken, who can but tremble, I will harden <hi>Pharaoh</hi> his heart, and who shall sof<g ref="char:EOLhyphen"/>ten it: I will soften <hi>Cleopatres</hi> heart,
+<pb n="16" facs="tcp:176870:15"/>and who shall harden it: The wicked shall bee cut downe and wither like graffe, and who shall make it grow; but the righteous shall flourish like the Palme, and what wind shall be a<g ref="char:EOLhyphen"/>ble, eyther to breake, or blast a bough thereof?</p>
+               <p>
+                  <hi>Iob was a iust man in the land of Hush,</hi>
+                  <note place="margin">
+                     <hi>Iob.</hi> 1. <hi>v.</hi> 1. <hi>&amp;c.</hi>
+                  </note>
+                  <hi>one that feared God, and eschewed euill,</hi> Satan with God would haue dearned his light and glory, by spoyling him of all worldly comforts: so would his three friends, the <hi>Temanit,</hi> the <hi>Shuit,</hi> and the <hi>Naamathit,</hi> haue pro<g ref="char:EOLhyphen"/>uoked his patience, by vrging him to despaire; but neyther Satans cru<g ref="char:EOLhyphen"/>elty, nor those miserable comforters could breake, or blast that righteous bough, but it must flourish &amp; spread like a Cedar in <hi>Lebanon.</hi>
+               </p>
+               <p>
+                  <hi>Ioseph</hi> was a iust man and a righ<g ref="char:EOLhyphen"/>teous,
+<note place="margin">
+                     <hi>Gen.</hi> 37. <hi>v.</hi> 24.28.</note> his vnkind brethren leauing him in the dearne pitte at <hi>Dothan,</hi> and selling him ouer to the <hi>Ismeelites;</hi> they together with <hi>Potephers</hi> wife, sought how to sacke his honour, and to bury him in obliuion: but they could not, for <hi>Iosephs</hi> bough must prosper, and
+<pb n="17" facs="tcp:176870:15"/>spread to the protectiō of his fathers family, and of all Egypt:
+<note place="margin">
+                     <hi>Gen.</hi> 41, <hi>v.</hi> 41. <hi>adv.</hi> 46.</note>
+                  <hi>Ioseph</hi> must bee aduanced into the best Chariot <hi>Pharaoh</hi> had, saue one; hee must weare his signet and golden chaine, <hi>Abrech</hi> must bee the peoples applause ouer <hi>Ioseph,</hi> which his tender father, and <hi>Zapnath-Paaneah</hi> the expounder of secrets must be his name.</p>
+               <p>Both Iew and Gentile banded themselues together against our Christ, to haue blotted out the name &amp; memory of that righteous branch, from vnder heauen: he was despised, and reiected of men, a man full of sorrowes, cut out of the land of the liuing, killed vpon the Crosse, and committed to the graue with hope of an eternall obsequie, neuer to breath any mote: but neyther that corrupt Iudge, nor Iury, with all the torments mallice could deuise, no crosse, no curse, no watch, no seale, no stone, no hell, or graue,
+<note place="margin">
+                     <hi>Mark.</hi> 16, <hi>v.</hi> 19. <hi>&amp; Rom.</hi> 8. <hi>v.</hi> 34.</note> could keepe him frō the right hand of his father, but there must hee sit <hi>in Potioribus Dei,</hi> to plead our cause, lead Captiuity captiue, and giue gifts vnto men: yea, and there
+<pb n="18" facs="tcp:176870:16"/>to triumph ouer hell and death, both for himselfe and vs. The righteous shall flourish, &amp;c.</p>
+               <p>Arise,
+<note place="margin">
+                     <hi>Isay.</hi> 52.2.3.</note> arise, ye righteous buds, put on your strength O yee rede<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med of the Lord, put on the garments of his beauty, shake your selues from the d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st;
+<note place="margin">
+                     <hi>Psal.</hi> 45.</note> arise, and sit down in safety, for yee are branches of that vine that ne<g ref="char:EOLhyphen"/>uer withereth. Of which, both vine and branches I may safely say, Pros<g ref="char:EOLhyphen"/>per with thy glory, Ride vpon the word of truth, of meekenes, and of righteousnes, and thy right hand (nay rather thy righteous hand) shal teach thee terrible things.</p>
+               <p>And let this suffice to haue proued, that the righteous shall prosper, not<g ref="char:EOLhyphen"/>withstanding all the mischiefe, mal<g ref="char:EOLhyphen"/>lice can deuise; there is no counsell a<g ref="char:EOLhyphen"/>gainst the Lord, its but a wearines to wrastle with his might, there is no re<g ref="char:EOLhyphen"/>sistance where there is no proportion of opposition: In his greatest weake<g ref="char:EOLhyphen"/>nesse is his greatest strength; and his power cannot be limitted.</p>
+            </div>
+            <div n="2" type="part">
+               <p>Next in place commeth to be con<g ref="char:EOLhyphen"/>sidered,
+<label type="milestone">
+                     <seg type="milestoneunit">Part. </seg>2</label> how the righteous shall flou<g ref="char:EOLhyphen"/>rish,
+<pb n="19" facs="tcp:176870:16"/>which is his Eminency: He shal flourish like the Palme-tree.</p>
+               <p>
+                  <hi>Plinie</hi> writeth, that of all the trees that grow,
+<note place="margin">
+                     <hi>Lib.</hi> 16. <hi>Prop<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rties of the Palme.</hi>
+                  </note> the Palme is best for bur<g ref="char:EOLhyphen"/>den, which made <hi>Ʋtrivius</hi> to say, <hi>Sub ipso pondere formicatur,</hi> Weight makes it wanton; for the more it is prest, the more it riseth aboue it burthen.
+<q>
+                     <l>I speake to Schollars:</l>
+                     <l>
+                        <hi>Nititur in pondus Palma &amp; consurgi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> in alium,</hi>
+                     </l>
+                     <l>
+                        <hi>Quo magis &amp; premitur hoc magè: tollit onus.</hi>
+                     </l>
+                  </q> A beautifull Embleme of the Church of God, euer rising in it ruine, prospe<g ref="char:EOLhyphen"/>ring in it persecution, and best plea<g ref="char:EOLhyphen"/>sed when it is most prest; meaning the flourishing branches thereof, to reioyce in their afflictions, and to say with solace,
+<note place="margin">
+                     <hi>Gal.</hi> 6.14.</note>
+                  <hi>God forbid that I should reioyce in any thing, but in the Crosse of Christ, whereby the world is crucified vn<g ref="char:EOLhyphen"/>to me, and I to the world.</hi>
+               </p>
+               <p>Signifying thereby likewise, as <hi>Ba<g ref="char:EOLhyphen"/>sil</hi> sayth, That the Church of God is like to <hi>Moses bush,</hi> which the more it burned, the lesse it consumed: So is the Church, Euer dying, and yet ne<g ref="char:EOLhyphen"/>uer
+<pb n="20" facs="tcp:176870:17"/>decaying, conquering in it pati<g ref="char:EOLhyphen"/>ence, and liuing in it blood.</p>
+               <p>The conclusion is good, to all you that would bee righteous; Resolue, resolue, that then yee beginne to bee fyned for God, when yee beginne to be afflicted in this world: The finest wheat must bee wynnowed ere it be cleane, The stateliest piller of porphe<g ref="char:EOLhyphen"/>rie must bee hammered ere it bee smooth. The best Balme must be bro<g ref="char:EOLhyphen"/>ken ere it smell sweet, and ere Cama<g ref="char:EOLhyphen"/>mell grow greene, thicke or sweete, it must be prest with often treading: so must the purest gold bee fined in the gloing furnace of fire, ere it be of price with men: What the Fanne is to the Winnower, what the Hammer is to the Porpherie, what the Morter is to the Balme, and what the burthē is to the Date tree; that, affliction and pressure is to the righteous man: In his Crosse is his Crowne, and when hee is humbled on earth, then is hee most honoured in heauen.</p>
+               <p>Againe, it is written of the Palme or Date tree; for all is one, that there is both a male and a female of that
+<pb n="21" facs="tcp:176870:17"/>kind, and that they are of so liking &amp; louing a disposition, that they liue &amp; die together; insomuch as if the male be but remoued into an other groūd, the female vailes her highest branch, euer bending both bole and bough, the way hee is gone, and still withe<g ref="char:EOLhyphen"/>reth till she be dead.</p>
+               <p>Aptly compared to Christ and his Church, neuer desiring to liue lon<g ref="char:EOLhyphen"/>ger then shee may grow with him, &amp; in him, the branches with her vine, the members with her head, the Bridegroome with her Spouse, and the Sinner with her Sauiour, here in grace, and there in glory, where true ioyes are to be found.</p>
+               <p>This made the righteous of all a<g ref="char:EOLhyphen"/>ges so impatient of separation, when by cruell persecution the tormen<g ref="char:EOLhyphen"/>tors would haue diuided them from their God and Christ; yet did they e<g ref="char:EOLhyphen"/>uer bow and bend towards the place &amp; ground where their beloued was, for their consolation was in heauen, and with good courage they chal<g ref="char:EOLhyphen"/>lenged all the creatures of God, both high and low, that none should bee
+<pb n="22" facs="tcp:176870:18"/>able to separate them from the loue of God which was in Christ Iesus their Lord; crying out with passion, as <hi>Ruth</hi> did to <hi>Naomy,</hi>
+                  <note place="margin">
+                     <hi>Ruth:</hi> 1. <hi>v.</hi> 16.17.</note>
+                  <hi>Intreate mee not to leaue thee, nor to depart from thee; for, whither thou goest, I will goe, and where thou dwellest I will dwell, thy peo<g ref="char:EOLhyphen"/>ple shall be my people, and thy God my God; where thou diest, will I die, &amp; there will I bee buried; the Lord doe so to me and more, if eyther death or life depart thee &amp; mee.</hi>
+               </p>
+               <p n="3">3 Thirdly, it is sayde of the Palme, that snee euer turneth towards the sunne, and that her leaues spread fur<g ref="char:EOLhyphen"/>thest when the shine is at the fayrest.</p>
+               <p>The sonne of Righteousnesse is the light and life of the righteous, and whats their longing desire, but that the light of his countenance may shine vpon them. The lower that the sunne is, the longer is your shadow, and the higher it goeth, it is the shor<g ref="char:EOLhyphen"/>ter; while the sunne is before you, your shadow is behind you, and you see it not, but turne your backe vpon it, and you see nothing but sha<g ref="char:EOLhyphen"/>dowes;
+<pb n="23" facs="tcp:176870:18"/>would you see your Christ in perfect beauty, dearned with no fin or shadowes of legall law or ceremo<g ref="char:EOLhyphen"/>nies; looke him in the face when he is at the fayrest; but and if you turne your backe vpon him, <hi>Vmbra rerum</hi> will be your ruine, you see nothing but shadowes, and you loose the sub<g ref="char:EOLhyphen"/>stance for the shadow.</p>
+               <p>The Eagle when shee would trye her young, which are true born birds and which are bastards, (say they) shee beares them vp into the brigh<g ref="char:EOLhyphen"/>test sunne beames, while they are tender, and yet not downed; and if with open eyes they looke vpon the sunne, then shee taketh them as her owne; but if they shut their eyes at the brightnesse thereof, then shee casts them out, as base birds and ca<g ref="char:EOLhyphen"/>strels.</p>
+               <p>So may you trie the children of God, who are faithfulll, and who are faithlesse, who are true borne Israe<g ref="char:EOLhyphen"/>lites, and who are not; if they can looke vpon their Christ and his righ<g ref="char:EOLhyphen"/>teousnesse with open eyes, if they can looke him fully in the face, and
+<pb n="24" facs="tcp:176870:19"/>dazle not at the brightnesse of his glory, then are they generous birds, and may soare with him aboue the height of all sublimity:
+<note place="margin">
+                     <hi>Isaiah.</hi> 53. <hi>v.</hi> 2.3.</note> but if as it is in the Prophet, <hi>They hide their faces from him, and say, he hath no forme nor beauty, that wee should defire him;</hi> then repute them as a base birth and dege<g ref="char:EOLhyphen"/>nerate, good for nothing, but to be cast out of the land of the liuing.</p>
+               <p n="4">4 Lastly, they write of the Palme; that when her leaues are faln, and her branches withered, dead and rotten, from the toppe prynne to the lowest roote; yet euen thence the sunne suc<g ref="char:EOLhyphen"/>keth a new iuyce, and giueth it a re<g ref="char:EOLhyphen"/>nued life, of many more yeares then formerly it had.</p>
+               <p>Such is, and shall bee the resurrec<g ref="char:EOLhyphen"/>tion of the righteous man,
+<note place="margin">
+                     <hi>Eccles.</hi> 12. <hi>v.</hi> 1. <hi>&amp;c.</hi>
+                  </note> when the flower of his youth beginnes to wi<g ref="char:EOLhyphen"/>ther, and the yeares approach, where<g ref="char:EOLhyphen"/>in he sayth, <hi>I haue no pleasure in them, when the Keepers of the house beginne to tremble, and the strong men bow them<g ref="char:EOLhyphen"/>selues, when the grynders cease, because they are but few, when they waxe darke that looke out by the windowes, and the
+<pb n="25" facs="tcp:176870:19"/>dores are shut without, by the base sound of the grinders.</hi> Nay more, (and to be briefe, mans misery in the forlorne hope of his declining age,) when all the daughters of singing shall bee a<g ref="char:EOLhyphen"/>based, when the Almond tree shall flourish, the Grashopper shall bee a burden, and concupiscence shall be driuen away, with many a weary and wakery night.</p>
+               <p>Yet man so tending to the house of his age, whiles the mourners goe a<g ref="char:EOLhyphen"/>bout in the street, because the graue hath deuoured him, corruption hath possessed him, and rottennesse hath consumed his bones, yet shall he bee renewed to a better life, by the sonne of righteousnes Iesus Christ; prophe<g ref="char:EOLhyphen"/>sying and breathing ouer these dead bones thus; O yee drie bones,
+<note place="margin">
+                     <hi>Ezek.</hi> 37. <hi>v.</hi> 4.12. <hi>&amp;c.</hi>
+                  </note> heare the word of the Lord, Behold my people, I will open your graues, and cause you come out of your Sepul<g ref="char:EOLhyphen"/>chres, and place you in your owne land; then shall yee know, that I the Lord haue spoken it, &amp; can performe it.</p>
+               <p>And thus, my deare brethren, are
+<pb n="26" facs="tcp:176870:20"/>wee well assured of a royall resur<g ref="char:EOLhyphen"/>rection from the dead, in, &amp; through the vertue of Christ his resurrection, wherein (as the Apostle sayth) hee hath mightily declared himselfe to be the sonne of God, as in the con<g ref="char:EOLhyphen"/>quest of sinne and death, both for himselfe and vs: In regard whereof, we may say, with a godly Ovation, Death,
+<note place="margin">1. <hi>Cor.</hi> 15. <hi>v.</hi> 55.57.</note> where is thy sting? hell, where is thy victory? Thanks bee to God, which hath giuen vs victory through our Lord Iesus Christ.</p>
+               <p>And so to the rest,
+<note place="margin">The Ce<g ref="char:EOLhyphen"/>dar with her pro<g ref="char:EOLhyphen"/>perties.</note> euen from the flourishing Palme, to the solid Ce<g ref="char:EOLhyphen"/>dar, wherein the wisdome of God in <hi>Dauid,</hi> seconds the similitude of the palme, with the semblance of the Ce<g ref="char:EOLhyphen"/>dar, as and if the excellency of the one, without the other, were not suf<g ref="char:EOLhyphen"/>ficient to expresse the blessednesse of a righteous man.</p>
+               <p>Now of all growing trees there is no doubt, but the Cedar is chiefe, first, for strength: 2. for length: 3. for diuturnity: and 4. for fruitfulnes: So is the godly, iust and righteous man.</p>
+               <pb n="27" facs="tcp:176870:20"/>
+               <p>The wicked flee when none pur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eth him;
+<note place="margin">
+                     <hi>Prou.</hi> 28. <hi>v.</hi> 1.</note> but the righteous are bold <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a Lyon; their perfect loue expel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th all feare; I say his loue to God &amp; <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s truth, is strong as death, cruell as <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e graue, and the coales thereof as a <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ehement flame.</p>
+               <p>In this strength stood righteous <hi>Dauid,</hi> when he sayd, What is this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roud <hi>Philistin,</hi> that he should reuile <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he hoast of the liuing God: In this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>trength stood <hi>Caleb</hi> as strong as <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eele, when hee desired to possesse <hi>Hebron,</hi> and to encounter with the <hi>Anakims:</hi>
+                  <note place="margin">
+                     <hi>Hester.</hi> 4. <hi>v.</hi> 16.</note> Of like strength was <hi>He<g ref="char:EOLhyphen"/>ster,</hi> when armed with her righteous cause, shee pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssed vpon the King with this resolution, I will goe in, &amp; if I die, I die.</p>
+               <p>As, and if hee should haue saide with Saint <hi>Paul,</hi> I can do all things in him that comforteth mee: I dare aduenture vpon any difficulty, I feare no death, I dread no danger. Marke I pray you, <hi>Omnia possum,</hi> a strong faith in a fraile vessell, an omnipo<g ref="char:EOLhyphen"/>tent power in an impotent flesh: The faith of the righteous, bee it neuer so
+<pb n="28" facs="tcp:176870:21"/>little, it cannot be lesse then a grain<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of mustard-seed, and yet it is strong enough to remoue mountaines.</p>
+               <p>All this to teach the righteous that the grace of God is sufficient fo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> them,
+<note place="margin">2. <hi>Cor.</hi> 12. <hi>v.</hi> 9.</note> that his power may bee mad<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> perfect in their weakenes; <hi>Sampso<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> strength was in his haires, and wha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> so weake as haires. To lesson vs ye<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> further,
+<note place="margin">2. <hi>Cor.</hi> 22.</note> that wee take pleasure in in<g ref="char:EOLhyphen"/>firmities, in reproaches, in persecuti<g ref="char:EOLhyphen"/>ons, in anguish for Christs sake, tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when wee are weake, wee may be<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> strong.</p>
+               <p>Thus conquered the Martyres i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sire and blood, whom the world was not worthy of, <hi>Vrebantur, Cedebantur, Torquebantur tamen multiplicabantur▪</hi> They were burned, they were bea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, they were racked, and yet they increased; yea, and in all these things, they were more then conquerours in him that loued them.</p>
+               <p n="2">2 Yee see the strength of the Ce<g ref="char:EOLhyphen"/>dar. Now let vs see how for length, it may paralell the righteous man. They say, of all the trees that grow, it is the highest, and like a Piramis, e<g ref="char:EOLhyphen"/>uer
+<pb n="29" facs="tcp:176870:21"/>poynteth at the height of hea<g ref="char:EOLhyphen"/>uen, The greatest beauty of <hi>Salomons Temple</hi> stood in the strength &amp; length of Cedars, fetched from <hi>Hiram,</hi> and fallen in <hi>Lebanon</hi> for basses, bords and beames, all other trees being too weake and short for that glorious building.</p>
+               <p>The righteous man as he is strong in the faith; so are his thoughts ele<g ref="char:EOLhyphen"/>nated aboue the height of all subli<g ref="char:EOLhyphen"/>mity; for his conversation is in hea<g ref="char:EOLhyphen"/>uen, where Iesus Christ that righte<g ref="char:EOLhyphen"/>ous braunch sitteth on the right hand of his Father: Great is the extent of his faith, that reacheth from the ne<g ref="char:EOLhyphen"/>thermost hell to the highest heauen: for the soule of the righteous is not where it liues, but were it loues: <hi>Ocu<g ref="char:EOLhyphen"/>limei semper ad dominum.</hi>
+                  <note place="margin">
+                     <hi>Psal.</hi> 25. <hi>v.</hi> 15.</note> Oh it was an heauenly Inspection, and good it was in <hi>Ezechias,</hi> when tossed vpon his weary bed, from the wall to the welkine; He turned his watery eyes,
+<note place="margin">
+                     <hi>Isay</hi> 38. <hi>v.</hi> 14.</note> and sayd, <hi>Attenuatisunt occuli mei sus<g ref="char:EOLhyphen"/>picientes in excelsum:</hi> Mine eyes dazle with looking towards thy brightnes.</p>
+               <p>The vse is good, <hi>Iacobs</hi> head lay
+<pb n="30" facs="tcp:176870:22"/>low, when he slept vpon the Stone, yet his thoughts were on high &amp; his soule scaled the heauens: He sought a Leader to <hi>Haram;</hi> but hee found a Ladder to Heauen;
+<note place="margin">
+                     <hi>Gen.</hi> 28. <hi>v.</hi> 12.</note> his meditations were mixed with no mortall mould, they taught the highest glory: so are the righteous in their repose, they neuer rest but in the bosome of their Christ, and like a Piramis they euer point vpward: What should I say more; for strength, righteous men are Cedar beams in the building of their God; and for their length, they reach from wall to wall.</p>
+               <p n="3">3 Thirdly, I may say, for durable<g ref="char:EOLhyphen"/>nesse, that the Cedar is of an immor<g ref="char:EOLhyphen"/>tall being.</p>
+               <p>And therefore <hi>Digna Cedrocanere,</hi> was a prouer be vsed of old, when any man would vrge for songs, subiects of Eternity; so may I say, that the Oake at <hi>Marme,</hi> the hard <hi>Marble,</hi> and the solid <hi>Cedar,</hi> shal sooner grind to greet, and turne to dust, then the memory of the righteous shall bee forgotten, their strength abated in the way, or their dayes shortned, ey<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:176870:22"/>in grace or glory: no dayes, no yeeres, no time, shall euer blot out or blemish their blessednes; but they shall still flourish, and grow green in their life, in their death, and after death, in all eternity, when time shall bee no more.</p>
+               <p>Prouerbes the third,
+<note place="margin">
+                     <hi>Pro.</hi> 3. <hi>v.</hi> 16.</note> Wisdome is brought in like a beautifull Queene, and a liberall Lady, with her hands ful, to bestow vpō her dearest friends, length of dayes, being in the right hand, and in the left hand riches and honour.</p>
+               <p>Now, who are these fayre friends, but the righteous seed, and such as feare God: They tell vs of many meanes to preserue life, and to cure maladies, as pils, potions, and cordi<g ref="char:EOLhyphen"/>als, they tell vs of Oyles, waters and mettals; but if all this were clapt in one, they are nothing to the feare of God, eyther in giuing health, or prolonging life: Of whom it is true that <hi>Abigal</hi> spake of righteous <hi>Da<g ref="char:EOLhyphen"/>uid:</hi>
+                  <note place="margin">1. <hi>Sam.</hi> 25 <hi>v.</hi> 29.</note> The soule of the righteous shall bee bound in the bundle of life with the Lord their God: Hee shall de<g ref="char:EOLhyphen"/>fend
+<pb n="32" facs="tcp:176870:23"/>them in life, and preserue them in death; for death shall neuer come before they may comfortably bid it welcome: To iustifie that of <hi>Iob,</hi> he shall deliuer thee in the sixe tribula<g ref="char:EOLhyphen"/>tions,
+<note place="margin">
+                     <hi>Iob.</hi> 5. <hi>v.</hi> 19.20.</note> and in the seuenth, they shal not touch thee.</p>
+               <p>But will some man say, how is it then that many times the righteous perish, and merciful men are taken a<g ref="char:EOLhyphen"/>way, and are often preuented with an vntimely death: Its true indeed, as the Prophet saith, they are taken a<g ref="char:EOLhyphen"/>way, but from vengeance to come, and thogh they bee preuented with an vntimely death, yet shall they rest in an eternall life.</p>
+               <p>He pleased God saith <hi>Salomon</hi> of <hi>Enoch,</hi>
+                  <note place="margin">
+                     <hi>Wisdom.</hi> 4. <hi>v.</hi> 10. <hi>&amp;c.</hi>
+                  </note> and was beloued of him, so that where he liued amongst sinners, he translated him: and hee was taken away, lest wickednes should alter his vnderstanding, or deceit beguile his mind: though hee was soone dead, yet fulfilled hee much time, for his soule pleased GOD, therefore ha<g ref="char:EOLhyphen"/>sted hee to take him away from wic<g ref="char:EOLhyphen"/>kednesse.</p>
+               <pb n="33" facs="tcp:176870:23"/>
+               <p>The conclusion is good for this point, and so I haste to the rest.
+<note place="margin">1. <hi>Ioh.</hi> 2. <hi>v.</hi> 17.</note> This wicked world passeth away, and the lusts thereof vanish; but hee that ful<g ref="char:EOLhyphen"/>filleth the will of God, abideth euer.</p>
+               <p n="4">4 Lastly, the Cedar is fruitful vn<g ref="char:EOLhyphen"/>to the end, and it beareth best in it old age, the fewer leaues, the fuller of fruit, and as the first fruit fayleth, the latter euer buddeth.</p>
+               <p>So are the righteous who trust in the Lord, and whose hope the Lord is, they beare their fruite without flourish, shew or semblance of palli<g ref="char:EOLhyphen"/>ated piety, the very pest of all religi<g ref="char:EOLhyphen"/>on, while the hypocrite doth onely flourish in his leaues,
+<note place="margin">2. <hi>Tim.</hi> 3. <hi>v.</hi> 5.</note> hauing a shew of godlinesse, as the Apostle sayth, but still denyeth the power thereof.</p>
+               <p>It may bee that the axe of iudge<g ref="char:EOLhyphen"/>ment is now and then laid to the root of the righteous; but it neyther hacketh nor heweth it downe, and why? hee beareth fruit, and bringeth it forth in due season; hee bringeth forth new fruite according to his moneths: his fruit is for meat,
+<note place="margin">
+                     <hi>Ezech.</hi> 47. <hi>v.</hi> 12.</note> and his lease is for medicine, because the
+<pb n="34" facs="tcp:176870:24"/>springs that runne out of the Sanctu<g ref="char:EOLhyphen"/>ary, doe water his growth, that is, the shower of Gods grace is euer di<g ref="char:EOLhyphen"/>stilling vpon his buds; and therefore hee is blessed both in his leaues, and in his fruit.</p>
+               <p>And heare, O my God, behold how I am troubled, my bowels swell, mine heart is turned within me, I am full of heauinesse, because of the worlds bar<g ref="char:EOLhyphen"/>rennes, we are like the heath in the wildernesse,
+<note place="margin">
+                     <hi>Ier.</hi> 17. <hi>v.</hi> 6.</note> wee inhabite the parched places in a salt land, and not inhabi<g ref="char:EOLhyphen"/>ted, our apples are like the fruite of <hi>Sodome,</hi> faire to the shew, but vpon the touch turne to dust and sinders; we belieue in some measure, but wee liue in none; wee lead not the life of the Gospell: Oh that our good fruits were answerable to the greene leaues of our profession, then should wee not bee idle hearers of the Law, but doers too, neyther deceyuers of our selues, nor betrayers of our owne soules.</p>
+               <p>Be it spoken therefore to the bar<g ref="char:EOLhyphen"/>ren soyle of both professions; neither shall your faithlesse works, O yee Pa<g ref="char:EOLhyphen"/>pist,
+<pb n="35" facs="tcp:176870:24"/>nor your worklesse faith,
+<note place="margin">
+                     <hi>Heb.</hi> 11. <hi>v.</hi> 6.</note> O yee Protestants, euer make you righte<g ref="char:EOLhyphen"/>ous before the Lord, till you haue truely put on both: for as without faith it is not possible to please God; so without holinesse of life, it is not possible to see the Lord; you haue Scripture for both.</p>
+               <p>
+                  <hi>Lucian,</hi> playde with the men of his dayes, as well wee may with ours, when hee fained the gods to sit in Parliament, euery one to make choise of the tree he most fancied; where it is sayde, that <hi>Iupiter</hi> chose the Oake for it strength, <hi>Apollo</hi> the Bay tree for it greennesse, <hi>Neptune</hi> the poplar for it length, <hi>Iuno</hi> the Eglentine for sweetnesse, and <hi>Venus</hi> the Mirtle tree for it beauty. <hi>Minerua</hi> sitting by, demanded of her father <hi>Iupiter</hi> what might be the reason, that sith there was such store of fruitfull trees, they all made choyse of such as were fruit<g ref="char:EOLhyphen"/>lesse? To whom <hi>Iupiter</hi> answered, <hi>Ne videamur fructa honorem vendere,</hi> we gods may not chaffer our honour for fruits. Well said <hi>Minerua,</hi> doe as you list; but I for my part will chuse
+<pb n="36" facs="tcp:176870:25"/>the Oliue for it fatnesse; whereat her father was much ashamed, and com<g ref="char:EOLhyphen"/>mended <hi>Mineruas</hi> choyse before his owne; and all the rest.</p>
+               <p>Carelesse Christian, why smilest thou? <hi>De te narratur fabula:</hi> The tale is true of thee; for euen so is the chaffie choyse of our different trees in this declining world, all are for pleasure, few for profite; they loue their greatnes,
+<note place="margin">
+                     <hi>Iudg.</hi> 9. <hi>v.</hi> 9.</note> they loue their green<g ref="char:EOLhyphen"/>nesse, they loue their sweetnesse, and they loue their be auty; but where is the mā that maketh <hi>Mineruas</hi> choise and with the Olyue droppeth down fatnesse, wherewithall both God &amp; man are honoured. Surely <hi>Minerua</hi> is but a fiction; but were our wits wel seasoned with holinesse, and our tongues with truth, wee would bet<g ref="char:EOLhyphen"/>ter taxe both the great, and dimy gods of this age, with indiscretion, while they catch at shaddowes, and lose the substance, still disdayning to chaffer their honour with our fruit.</p>
+               <p>Well, I say no more, but the fruit we tender them is godlinesse, and godlines is great gaine, and yet few
+<pb n="37" facs="tcp:176870:25"/>catch at it,
+<note place="margin">1. <hi>Tim.</hi> 6. <hi>v.</hi> 6.</note> it is profitable vnto all things, which hath the promise of the life present, and of the life to come: and yet I know not how, but it is a wearines to walke in it, it is a danger to speake of it: Let none re<g ref="char:EOLhyphen"/>buke or reproue an other with the proud poasie of <hi>Israel:</hi>
+                  <note place="margin">Hosea</note> I pray God it may neuer be the poafie of <hi>England,</hi> nor that wee should become your enemies for telling you the truth: theres a blessed enimity so to preach, theres a cursed amity so not to preach.</p>
+               <p>They that weare soft rayment are in Kings Courts, soft &amp; oyled tongues I know not how, but they warble too much both in Court and Country: What went yee forth to see, sayde Christ of <hi>Iohn,</hi> a reede shaken with the wind: No, no, yee found him a steddy Cedar: <hi>Non est calamus, non est homo mollis &amp; aulicus: Iohn</hi> is no reed, <hi>Iohn</hi> is no soft or courtly Preacher: he pearced their harts with the doctrine of repentance, for the remission of sinnes.</p>
+               <p>The Lord God of Heauen giue vs
+<pb n="38" facs="tcp:176870:26"/>grace to be faithfull in his house, as <hi>Moses</hi> was, and to keepe nothing backe of his mercies, or of his iudge<g ref="char:EOLhyphen"/>ments, eyther for feare, or flattery, of any transitory maiesty in this world: and so to the rest.</p>
+            </div>
+            <div n="3" type="part">
+               <p>Next in pla<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e commeth to be con<g ref="char:EOLhyphen"/>sidered, <label type="milestone">
+                     <seg type="milestoneunit">Part. </seg>3</label> where, and why the crowne and diademe of the righteous is so renowned, flour<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shing &amp; bossed with blessings: The reason is readily ren<g ref="char:EOLhyphen"/>dered, by the words of my Text: He is planted in the house of the Lord, and therefore he shall flourish in the Courts of his God; The <hi>Palme</hi> and <hi>Cedar</hi> grow not in euery ground, the <hi>Palme</hi> is for <hi>Iudea,</hi> and the <hi>Cedar</hi> is for <hi>Lebanon:</hi> and the sweetest rose is for <hi>Saram;</hi> so are the righteous not for euery soyle, but they are righte<g ref="char:EOLhyphen"/>ous because they are planted in the house of the Lord; euery Lambe is not for the sacrifice, nor euery tree for the fabricke of the Temple; no more is euery earth a like for the righteous to plant in.</p>
+               <p>They must be plucked out of olde <hi>Adam,</hi> and planted into new <hi>Christ;</hi>
+                  <pb n="39" facs="tcp:176870:26"/>the first soyle was naught, and there<g ref="char:EOLhyphen"/>fore they are remoued into a better ground; yea, and grafted into that vine that neuer withereth, eyther in it selfe, or in it branches: And thus they become an holy Colony, planted no where but in <hi>domo Iehouae,</hi> licking vp the dust of the Sanctuary, and there<g ref="char:EOLhyphen"/>fore flourishing in the courts of their God, here in grace, &amp; there in glory.</p>
+               <p>We heare that in <hi>Virginia</hi> there is a Colony of Christians, planted in the Virgines sonne, and that righteous iudgement hath entred that land; the Lord of heauen prosper the growth thereof, in it flourish, in it flower, &amp; in it fruit, and that longer liued, it may euer be better leaued, loaden with it burden of ripe fruit falling, and new blossoms blooming Cedar-like.</p>
+               <p>And it encourageth me the rather for to pray; for that I see the promise of God to goe with it growth, not onely in the seuerall branches and members of the Church of old; but also in the whole body &amp; bole there<g ref="char:EOLhyphen"/>of, deduced down euen to these our dayes.</p>
+               <pb n="40" facs="tcp:176870:27"/>
+               <p>All to make good the words of my Text, that the righteous shall bring forth fruit in their age, that they shall bee fat and flourishing: for are wee not fallen euen into the last and worst dayes of the world: Surely, surely, <hi>Attigimus punctum,</hi> the very period thereof is vpon vs, and yet I know not how, but as in an old and decrepit body, when the state there<g ref="char:EOLhyphen"/>of is more languishing and feeble, the soule is euermore hearty and heauen<g ref="char:EOLhyphen"/>ly: So is it now with the Church of God, though worne and wearied in this the declining state of this world: yet to God bee the prayse, it doth flourish and beare fruit in more abun<g ref="char:EOLhyphen"/>dance, and in greater measure, then it did in many ages past. Cast your eies ouer the continēt of al Christendom, with the Isles adiacent, and from the high towers of heathenish <hi>Gogge</hi> and <hi>Magoge</hi> in their idolatry: Looke downe into the valley of <hi>Becor,</hi> in it much piety, and yee shall see <hi>Miria<g ref="char:EOLhyphen"/>des</hi> of saued soules, there walke from strengh to strength till euery one ap<g ref="char:EOLhyphen"/>peare before their God in <hi>Sion,</hi> plan<g ref="char:EOLhyphen"/>ted
+<pb n="41" facs="tcp:176870:27"/>they are in <hi>Domo Iehouae,</hi> and therefore they shall flourish in <hi>atrijs Domini.</hi>
+               </p>
+               <p>The house of God is the nursery of his Saints to liue in, and the courts of the Almighty is the Orchard of his delight for thē to flourish in, not for a time, but for euer, not for a few, but for a full family: for who can tell the dust of <hi>Iacob,</hi> or the number of the fourth part of <hi>Israel:</hi> but O my God, let me die the death of the righte<g ref="char:EOLhyphen"/>ous, and let my end bee like his, and it shall bee sufficient for mee, that I am but one, euen an vnith of that infinite number.</p>
+            </div>
+            <div n="4" type="part">
+               <p n="4">4 Lastly, to draw towards an end, <label type="milestone">
+                     <seg type="milestoneunit">Part. </seg>4</label> and so to close with the soules of the righteous, whose glorious building is of Palme and Cedar. Be it known vnto you, that all your planting, flou<g ref="char:EOLhyphen"/>rishing, flower and fruit will faile you in the end, and like the fruit of <hi>Sodom</hi> fall to cynders, if it bee not sanctifi<g ref="char:EOLhyphen"/>ed, as with prayer, so with prayse, &amp; made perfect with profession; ye may not bee silent of the righteousnes of the Lord, but yee must declare, that
+<pb n="42" facs="tcp:176870:28"/>he is your rocke, and that no iniquity is in him.</p>
+               <p>
+                  <hi>Dauids</hi> harpe and voyce was ne<g ref="char:EOLhyphen"/>uer more tuneable, then when hee sung and sayd:
+<note place="margin">
+                     <hi>Psal.</hi> 40. <hi>v.</hi> 10.</note>
+                  <hi>I haue not hid thy righ<g ref="char:EOLhyphen"/>teousnes within my heart, my talking hath beene of thy truth, and of thy saluation, I haue not kept backe thy louing mercies &amp; truth from the great congregatiō.</hi> Is God in thy heart? let him be in thy mouth also: for thats the sweet perfume of thy profession, to speake to Gods glory, and to sing an <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lalijah</hi> to the Almighty, is heauenly, and well be<g ref="char:EOLhyphen"/>seeming the sacred assemblies of mē, and the highest Hierarchy of Angels.</p>
+               <p>As speaking is a fruit of the spirit, so is it an effect of faith, to iustifie that, because wee haue the same spi<g ref="char:EOLhyphen"/>rit of faith,
+<note place="margin">2. <hi>Cor.</hi> 4. <hi>v.</hi> 13.</note> according as it is written, I beleeued, and therefore haue I spo<g ref="char:EOLhyphen"/>ken, wee also beleeue, and therefore wee speake.</p>
+               <p>So then, as in the naturall body, there is an open passage from the heart to the tongue: so is there in the soule a beaten way, from the spi<g ref="char:EOLhyphen"/>rit to the speech; a religious heart will
+<pb n="43" facs="tcp:176870:28"/>haue a religious mouth, a sanctified spirit, will haue a sanctified speech, &amp; righteousnes no sooner teacheth the heart to thinke it, but it striketh the tongue to speake it.</p>
+               <p>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d thus you see that you must declare, but what is the declaration. The righteous must put into this hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Court of Iustice &amp; mercy; euen this, That the Lord is his rocke, and that none iniquity is in him.</p>
+               <p>As the Caske sauoureth within, so it venteth without, and the stomacke breathes as it is affected; if sound, thē sweet, if corrupt, then it stinketh: if the soule bee sanctified with spiritual righteousnesse, it doth abound with heauenly eloquence:
+<note place="margin">
+                     <hi>Psal.</hi> 45. <hi>v.</hi> 1.2.</note> a good matter boyled in <hi>Dauids</hi> heart, and therfore grace was powdered in his lips.</p>
+               <p>The hearts of the wicked are wic<g ref="char:EOLhyphen"/>kedly bent, and therefore with their tongues they shoot point blanck at al impiety, and neuer misse it. The aua<g ref="char:EOLhyphen"/>rous mans talke is of his wedge of gold, and the Idolaters, of his god of gold; The garrish proud peacocks speach is of his coate of gold, and the
+<pb n="44" facs="tcp:176870:29"/>ambitious conquerour, is of his moū<g ref="char:EOLhyphen"/>tains of gold: the drunkard with <hi>Bal<g ref="char:EOLhyphen"/>thazar</hi> belcheth out blasphemy out of his bowles of gold. In a word, the talke of the wanton, is all of luxury, &amp; the tongue of the busie body, is al o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nouelty, like the curious Athenians, who loued to heare and talke of no<g ref="char:EOLhyphen"/>thing but newes.</p>
+               <p>But the righteous man and trulie regenerate, is of an other season, his heart is better filled, his tong is bet<g ref="char:EOLhyphen"/>ter filed; for he speaketh of God, hee speaketh for God, hee speaketh from God, and he speaketh to God.</p>
+               <p n="1">1 Hee speaketh of God, when hee prayseth him.</p>
+               <p n="2">2 He speaketh from God, when he preacheth him.</p>
+               <p n="3">3 He speaketh to God when hee prayeth him.</p>
+               <p n="4">4 And he speaketh for God when he defendeth his truth, and pleades the cause of the innocent.</p>
+               <p>And thus the Prophet hauing put in his bill of complaint against the wic<g ref="char:EOLhyphen"/>ked, why they should so prosper in the world, as you may see in the pre<g ref="char:EOLhyphen"/>cedent
+<pb n="45" facs="tcp:176870:29"/>words of my Text: Now hee doth declare for the righteous, that they shall flourish in the courts of the almighty, though they seeme to wither; and he declareth from his owne experience, how hee in his par<g ref="char:EOLhyphen"/>ticular hath found the Lord, euen as the shadow of a great Rocke in a wearie land. The Lord my rocke is righteous; and therefore I say that none iniquity is in him.</p>
+               <p>It hath been grieuous to the godly euer, euen in the seas of their afflicti<g ref="char:EOLhyphen"/>ons, to see that they should sinke, &amp; the wicked swim, to see seruants on horsebacke, and Princes goe on foot; to see the Bramble breare preuayle against the Palme and Cedar.</p>
+               <p>I cannot perceyue, sayth <hi>Esdras,</hi>
+                  <note place="margin">2. <hi>Esdras.</hi> 3. <hi>v.</hi> 31.</note> how this commeth to passe, that the godly are plagued, and the wicked are spared, are the deedes of <hi>Babylon</hi> better then they of <hi>Sion?</hi>
+               </p>
+               <p>Surely nay, but it is a caution for the wicked, thereby to take heede, &amp; be well warned; for if iudgement be<g ref="char:EOLhyphen"/>gin at the house of God, shall it spare the Satadel of sinners; and if the righ<g ref="char:EOLhyphen"/>teous
+<pb n="46" facs="tcp:176870:30"/>scarsly shall bee saued, shall not the sinner sincke, <hi>Scrutinum in Ieru<g ref="char:EOLhyphen"/>shalem, quid in Babilone tutam,</hi> will there be a search in Ierusalem? what shall then become of Babylon?</p>
+               <p>It much perplexed <hi>Iob</hi> to see the wicked in such prosperity they wax<g ref="char:EOLhyphen"/>ed old,
+<note place="margin">
+                     <hi>Iohn</hi> 21. <hi>v</hi> 7.8. <hi>&amp;c.</hi>
+                  </note> they grew in wealth, their seed was established, their houses were peaceable, they hued without feare, and the rodde of God was not vpon them, they sent forth their chil<g ref="char:EOLhyphen"/>dren in droues, and their sonnes in dances. The tabret, harpe &amp; orgā was in their Feasts: In a word, they spent their daies in wealth, while the righte<g ref="char:EOLhyphen"/>ous liued in woe &amp; want: And could there be a greater tryall? yet when he saw how suddenly they dropped down to hell, hee knew their hauing was no heauen.</p>
+               <p>The like temptation daunted <hi>Da<g ref="char:EOLhyphen"/>uid,</hi>
+                  <note place="margin">
+                     <hi>Psal.</hi> 10. <hi>v.</hi> 5. <hi>&amp;c.</hi> 73. <hi>v.</hi> 3. <hi>&amp;c.</hi>
+                  </note> when hee saw the wicked, how his wayes did alwayes prosper, hee deemed his deuotions had been all in vaine, and his foot had well near slipt, till hee went to the sanctuary of his righteous God, and then he saw how
+<pb n="47" facs="tcp:176870:30"/>they stood in slippery places, &amp; that their habitation could no<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>where be found any more.</p>
+               <p>
+                  <hi>Ieremiah</hi> that mourn full Prophet was much in dispute with God about this argument, when he said; O Lord,
+<note place="margin">
+                     <hi>Ierem.</hi> 12. <hi>v.</hi> 1. <hi>&amp;c.</hi>
+                  </note> if I dispute with thee, thou art righte<g ref="char:EOLhyphen"/>ous; yet let me talke with thee of thy iudgements: wherfore doth the way of the wicked prosper, and why are all they in wealth that rebelliously transgresse? Thou Lord knowest me, thou hast seen me, and tried mine hart toward thee, and yet I wither, while they flourish in this wicked world.</p>
+               <p>To all these bils of complaint, the declaration is out:
+<note place="margin">
+                     <hi>Gen.</hi> 18. <hi>v.</hi> 25.</note> That the Lord is the rocke of the righteous, and that none iniquity is in him: for, shal not the iudge of all the world doe accor<g ref="char:EOLhyphen"/>ding to right. And what is right? but euen this, when the wicked grow as the grasse, and all the workers of wickednesse doe flourish; that they shall wither in the end, and bee de<g ref="char:EOLhyphen"/>stroyed for euer, while the righteous shall flourish like a Palme tree, and spread abroad like a Cedar in Le<g ref="char:EOLhyphen"/>banon▪</p>
+               <pb n="48" facs="tcp:176870:31"/>
+               <p>But bee not curious to search into the secrets of thy God, why the way of the wicked doe often prosper, and why they are in wealth that rebelli<g ref="char:EOLhyphen"/>ously transgresse: Leaue it, O leaue it vayled behind the curtaine of the Tabernacle, and talke we more with thy God of his iudgements; sith hee hath layd his finger vpon thy mouth, and enioyned thee silence,
+<note place="margin">
+                     <hi>Ier.</hi> 12. <hi>v.</hi> 5.</note> saying; If thou haue runne with footmen, and they haue wearied thee, how shalt thou be able to match with horses, &amp; if thou thought thy selfe safe at <hi>Ana<g ref="char:EOLhyphen"/>thoth</hi> a peaceable land, and was dis<g ref="char:EOLhyphen"/>quieted, what must thou doe in the swellings of Iordan?</p>
+               <p>In the Interim, resolue of this with<g ref="char:EOLhyphen"/>out doubt or delay, that there is <hi>Dies &amp; Deus vltionis,</hi> a day, and a God of reuenge, a day of death, and a day of doome, which two dayes once de<g ref="char:EOLhyphen"/>termined, downe goe the wicked, but the godly shall bee exalted; Hor<g ref="char:EOLhyphen"/>ror, hell and death shall be the doom of the damned: Heauen, ioy, &amp; life shall bee the lot of the righteous: and therefore when you see here on
+<pb n="49" facs="tcp:176870:31"/>earth things so vneuenly dealt; know the day will come, when the dowle shall bee more equally deuided; till when &amp; euer declare, that the Lord thy rocke is righteous, and that none iniquity is in him.</p>
+               <p>But now I see the howre is out, &amp; with my Text the glasse is runne; yet pardon me in your patience, to pull backe the Dyall vpon the wall some few degrees, and a while to repose vnder the shadow of the Palme and Cedar, for whom I preach.</p>
+               <p>Your Founder of worthy memory is dead to this world, but liueth in a better; &amp; there he liueth now where true ioyes are to be found: the fayre flower and flourish of this Palme is perished by death; yet the ripe fruit of this Cedar, fallen into the lappe of the needie will neuer die.</p>
+               <p>Hee was a Palme, and flourished in the most eminent place of the Kingdome, euen in the Kings City, &amp; Chamber of <hi>London:</hi> Honourable in i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> selfe, and famous throughout al the world; there he liued, and there hee died, not as a priuate man; for the
+<pb n="50" facs="tcp:176870:32"/>greatest offices of that gouetnment were cast vpon him, from time to time, which how he passed through, and with what credite, I spare to speake, lest I seeme partiall in my loue towards him; but hee is now gone, and may say <hi>frangantur sasces, priuatus ero:</hi> What aduantage hath hee now of those honours, whereof he might then haue boasted: are they not fallen from him by death, and vanished like a morning dew? Surely they are, for when life left him, ho<g ref="char:EOLhyphen"/>nours failed him, as they will doe the greatest Monarchies of the world, in the day &amp; hower of their dissolution.</p>
+               <p>Yet of him I might say, as they of the Palme, when her leaues, braun<g ref="char:EOLhyphen"/>ches and boughes are withered: euen from the highest sprigge, to the low<g ref="char:EOLhyphen"/>est root, buried in the ground, that theres hope in the root of a glorious resurrection, when the son of righ<g ref="char:EOLhyphen"/>teousnesse shall shine vpon it, &amp; giue it a renued life, neuer to die anymore, but euer to flourish greene in the Courts of the Almighty; such solace and honour haue all his Saints.</p>
+               <pb n="51" facs="tcp:176870:32"/>
+               <p>Againe, though the fayre flower of his life bee thus fallen; yet the me<g ref="char:EOLhyphen"/>mory of his blessed works, as fruits of his faith will neuer die: The Lord by his liberall hand hath powred wa<g ref="char:EOLhyphen"/>ters of comforts and instruction vpon his thirsty and drie ground; a Salary of fifty pounds <hi>per annum</hi> euer to en<g ref="char:EOLhyphen"/>dure; that the spirit of the Lord may breath vpon your seed, and his bles<g ref="char:EOLhyphen"/>sing abide vpon your bodies; &amp; yet his hand is not shortned, but strerch<g ref="char:EOLhyphen"/>ed out still, from this his Schoole here, to the poore Hospitals in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> a thirsty ground, which hee hath watered likewise, with 500. l. as a le<g ref="char:EOLhyphen"/>gacy of his loue to Christ, and his poore members: Nor hath hee beene straightned in his bowels of com<g ref="char:EOLhyphen"/>passion, eyther towards the poore prisoners that lye in cold irons, relie<g ref="char:EOLhyphen"/>ued with 100. l. Or towards the poor of the Company of <hi>Goldsmithes,</hi> with the bounty of 200. l. And lastly, 1200 l. freely giuen to his dearest &amp; nearest of blood, his kinsfolks, lest happily they might say, hee had for<g ref="char:EOLhyphen"/>gotten his owne flesh.</p>
+               <pb n="52" facs="tcp:176870:33"/>
+               <p>Thus hath hee stood vp in the rank of the righteous, as a flourishing Palme and a fruitfull Cedar: The Lord hath gotten glory by him, and hee is of them that hath left a name behind them;
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 5</note> so that their prayse shall be spoken of.</p>
+               <p>Behind him, how? and whither is he gone; the Lord hath remoued him into a better soyle: for the body is gone to the earth, from whence it came; but his soule is gone to God that gaue it; <hi>Euolauit,</hi> its flowne vp, and like a Piramis of fire, it neuer stai<g ref="char:EOLhyphen"/>ed till it came to that light which is accessible. His religious life tolde him in his death, that he should die the death of the righteous; and there<g ref="char:EOLhyphen"/>fore hee hasted towards his Master Christ, as <hi>Hillarion</hi> did, when deba<g ref="char:EOLhyphen"/>ting in frailty with his sad soule, loth to depart, he put it forward with an inuincible courage thus; <hi>Egredere, quid times? Egredere, nima mea, quid dubitas? Septuaginta prope annis, seruisti Christo, &amp; mortem times:</hi> Goe out my soule, why fearest thou to goe out? these seuenty yeares almost thou
+<pb n="53" facs="tcp:176870:33"/>hast serued Christ, and art thou fear<g ref="char:EOLhyphen"/>full now to die? and so <hi>Animus victor annorum cedere nesciens infirmitati euo<g ref="char:EOLhyphen"/>lauit:</hi> His mighty mind conquerour of his many yeares slew vp to God, not knowing how to yeeld to frailty.</p>
+               <p>I may not forget how I tolde you of the Palme, that there was a Male and a female of that kind, as also that the female being separated from her male will hang downe her branches, and wither, turning, her selfe that way, whither her Male hath bin car<g ref="char:EOLhyphen"/>ried.</p>
+               <p>Its true indeed, that death hath made a separation, and the Male-Palme is in heauen. Now cast your eyes vpon the Female, and tell mee whether shee doth not turne her selfe that way, whither the Male hath beene carried; was there a purpose in his heart of any good to be done; and by him left vndone, which shee hath not perfected? His louing Lady euen this day hath leaned towards you as he did: she hath laide you in her lappe as a Nursing mother, and drawn out her brests to giue you the
+<pb n="54" facs="tcp:176870:34"/>sucke of sacred skill, with caution to your Master, Vsher, and Schollars, that yee beware of the Leuen of Po<g ref="char:EOLhyphen"/>pery. His will was, and her will is, that the children bee catechized weekely in the grounds of the Or<g ref="char:EOLhyphen"/>thodoxall faith, and with secular learning to be trayned vp in the lan<g ref="char:EOLhyphen"/>guage of <hi>Canaan,</hi> which and if you doe, her purpose is still to doe you more good: nor shall you euer find her other, till shee heare you be wan<g ref="char:EOLhyphen"/>ting or weary of weldoing: how she hath turned her selfe towards him in the rest of his holy purposes, to per<g ref="char:EOLhyphen"/>fect them according to the trust and faithfulnesse hee reposed in her, the world can witnesse, all Courts are si<g ref="char:EOLhyphen"/>lent, there is no plaintiue, and there<g ref="char:EOLhyphen"/>fore there needs no defendant: theres no cry of oppression, theres no com<g ref="char:EOLhyphen"/>playning in the streetes. And there<g ref="char:EOLhyphen"/>fore I spare to speak any more of her: leauing her a righteous branch of a femall Palme, leaning towards the soyle and soule of her beloued hus<g ref="char:EOLhyphen"/>band, weeping ouer his graue for that hee is not; but ioying ouer his
+<pb n="55" facs="tcp:176870:34"/>righteous deedes, for that the lustre thereof, is a glory to God, a reliefe to the poore, and a blessing to the world; not doubting, but because they were both planted in the house of their God, they shall together flourish in the Courts of the Almigh<g ref="char:EOLhyphen"/>ty, neuer any more to bee separated by the violence of death, but to bee tyed for euer in the bundle of the li<g ref="char:EOLhyphen"/>uing. So God, onely wise, im<g ref="char:EOLhyphen"/>mortall, and independent, be honout, prayse and glo<g ref="char:EOLhyphen"/>ry, now and euer. <hi>Amen, Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
